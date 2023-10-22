@@ -7,6 +7,7 @@ This Python script utilizes the `gpiozero`, `pyaudio`, and `numpy` libraries to 
 Before running the code, make sure you have the following components and libraries installed:
 
 - Raspberry Pi (or similar SBC)
+- Audio Interface (I'm using Focusrite Scarlett Solo)
 - Relay module (I'm using Keyestudio's RPI 4channel-Relay 5V Shield)
 - Appropriate GPIO pins configuration (adjust `RELAY_PINS` to match your setup)
 - Python 3
