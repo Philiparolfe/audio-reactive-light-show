@@ -4,7 +4,7 @@ This Python script utilizes the `gpiozero`, `pyaudio`, and `numpy` libraries to 
 
 ## Demo
 
-[![Alt text](https://img.youtube.com/vi/KVRlYKLWhZY/0.jpg)](https://www.youtube.com/watch?v=KVRlYKLWhZY)
+[![Demo](https://img.youtube.com/vi/KVRlYKLWhZY/0.jpg)](https://www.youtube.com/watch?v=KVRlYKLWhZY)
 
 ## Requirements
 
